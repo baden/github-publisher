@@ -14,3 +14,8 @@ github-publisher
 5. Запускает тесты
 6. Выкладывает в нужный каталог в зависимости от ref, owner и т.п.
 
+
+
+Возможно разумно его сделать на базе grunt.
+http://stackoverflow.com/questions/11943212/whats-the-purpose-of-gruntjs-server-task
+Это (теоретически) даст возможность запускать родные задачи.
